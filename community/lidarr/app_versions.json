@@ -179,7 +179,7 @@
                                 "description": "The group id that Lidarr will run as.",
                                 "schema": {
                                     "type": "int",
-                                    "min": 2,
+                                    "min": 0,
                                     "default": 568,
                                     "required": true
                                 }
