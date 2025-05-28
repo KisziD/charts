@@ -1,5 +1,5 @@
 image:
-  repository: ghcr.io/onedr0p/lidarr-develop
+  repository: ghcr.io/hotio/lidarr
   pullPolicy: IfNotPresent
   tag: 2.5.2.4316
 
